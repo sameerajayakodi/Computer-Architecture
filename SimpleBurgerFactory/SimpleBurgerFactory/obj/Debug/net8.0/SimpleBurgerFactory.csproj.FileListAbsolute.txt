@@ -1,0 +1,5 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleBurgerFactory\SimpleBurgerFactory\obj\Debug\net8.0\SimpleBurgerFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleBurgerFactory\SimpleBurgerFactory\obj\Debug\net8.0\SimpleBurgerFactory.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleBurgerFactory\SimpleBurgerFactory\obj\Debug\net8.0\SimpleBurgerFactory.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleBurgerFactory\SimpleBurgerFactory\obj\Debug\net8.0\SimpleBurgerFactory.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleBurgerFactory\SimpleBurgerFactory\obj\Debug\net8.0\SimpleBurgerFactory.sourcelink.json
