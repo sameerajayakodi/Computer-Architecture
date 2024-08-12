@@ -3,3 +3,13 @@ C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactor
 C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.AssemblyInfo.cs
 C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.csproj.CoreCompileInputs.cache
 C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\obj\Debug\net8.0\refint\SimpleFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleFactory\SimpleFactory\obj\Debug\net8.0\ref\SimpleFactory.dll
