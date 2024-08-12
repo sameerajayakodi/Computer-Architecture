@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SimpleFactory
 {
-    public class Squre
+    public class Squre:Shape
     {
+        public void  Drow()
+        {
+            Console.WriteLine("I am Creating Squre..");
+        }
     }
 }
