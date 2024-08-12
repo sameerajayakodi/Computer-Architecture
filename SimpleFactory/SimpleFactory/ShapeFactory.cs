@@ -20,8 +20,10 @@ namespace SimpleFactory
                 return new Rectangle(); 
             }else if(shapeType == "squre")
             {
-                return new Squre;
+                return new Squre();
             }
+
+            return null;
         }
     }
 }
