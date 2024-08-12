@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simplefactory\\simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simplefactory\\simplefactory\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simplefactory\\simplefactory\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simplefactory\\simplefactory\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simplefactory\\simplefactory\\squre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\squre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simplefactory\\simplefactory\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6C69AC-D4CF-424A-B346-C58A3020B3DB}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\ShapeFactory.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\ShapeFactory.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\ShapeFactory.cs*",
+              "RelativeToolTip": "SimpleFactory\\ShapeFactory.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:51:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\Rectangle.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\Rectangle.cs",
+              "RelativeToolTip": "SimpleFactory\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:44:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Squre.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\Squre.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Squre.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\Squre.cs",
+              "RelativeToolTip": "SimpleFactory\\Squre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:44:41.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\Circle.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Circle.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\Circle.cs",
+              "RelativeToolTip": "SimpleFactory\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:44:27.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\Shape.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Shape.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\Shape.cs",
+              "RelativeToolTip": "SimpleFactory\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:42:23.365Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +109,7 @@
               "RelativeDocumentMoniker": "SimpleFactory\\Program.cs",
               "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimpleFactory\\SimpleFactory\\Program.cs",
               "RelativeToolTip": "SimpleFactory\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T09:40:23.232Z",
               "EditorCaption": ""
