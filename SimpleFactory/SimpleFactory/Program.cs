@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace SimpleFactory;
+
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Starting Shape Factory");
+
+    }
+
+}
