@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SimpleFactory
 {
-    internal class Circle
+    public class Circle:Shape
     {
+        public void Drow()
+        {
+            Console.WriteLine("I am Creating Circle...");
+        }
     }
 }
