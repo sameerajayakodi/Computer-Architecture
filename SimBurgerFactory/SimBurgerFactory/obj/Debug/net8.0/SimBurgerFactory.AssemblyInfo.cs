@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimBurgerFactory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f23e29e6c28f250656ab60b9e598450a713ba8b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a6ebe512a3de3ce5ec89541c60e0e7e12476fbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimBurgerFactory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimBurgerFactory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
