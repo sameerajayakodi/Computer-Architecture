@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,22 +13,29 @@ namespace ClassDiagram
         public string Name { get; set; }
         public string Major { get; set; }
 
-        private List<Professor> Professors { get; set; }
+       private List<Course> Courses { get; set; }
 
         public Student(string studentId,string name , string major) {
             StudentId = studentId;
             Name = name;
             Major = major;
-            Professors = new List<Professor>();
+            Courses = new List<Course>();
+                
         }
 
-        public void AddProfessor(Professor professor) { 
-                Professors.Add(professor);
+
+        public void EnrollCourse(Course course) { 
+           Courses .Add(course);
         }
 
-        public List<Professor> GetProfessors() { 
-          return Professors;
+        public List<Course> GetCourses() { 
+            return Courses;
         }
+        
+
+        
+
+
 
     }
 }
