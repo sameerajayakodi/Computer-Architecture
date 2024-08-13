@@ -8,8 +8,20 @@ namespace ClassDiagram
 {
     public class Department
     {
-        string Name { get;,set; }
-        string Location { get; set; }
+        public string Name { get;set; }
+        public string Code { get; set; }
+
+        private List<Student> Students {  get; set; }
+        private List<Professor> Professors { get; set; }
+        private List<Course> Courses { get; set; }
+
+        public Department(string name,string code) { 
+          Name = name;
+          Code = code;
+          Students = new List<Student>();
+          Professors = new List<Professor>();
+          Courses = new List<Course>();
+        }
 
     }
 }
