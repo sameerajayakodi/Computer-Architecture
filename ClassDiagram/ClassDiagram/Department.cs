@@ -23,5 +23,31 @@ namespace ClassDiagram
           Courses = new List<Course>();
         }
 
+        public void AddCourse(Course course) { 
+           Courses.Add(course);
+        }
+
+        public List<Course> GetCourses()
+        {
+            return Courses;
+        }
+
+        public void AddProfessor(Professor professor) { 
+            Professors.Add(professor);
+        }
+
+        public List<Professor> GetProfessors() { 
+          return Professors;
+        }
+
+        public void AddStudent(Student student) { 
+          Students.Add(student);    
+        }
+
+        public List<Student> GetStudents() { 
+           return Students;
+        }
+
+
     }
 }
