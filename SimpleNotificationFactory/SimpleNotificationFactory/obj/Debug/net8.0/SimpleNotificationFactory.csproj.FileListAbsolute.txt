@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\bin\Debug\net8.0\SimpleNotificationFactory.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\bin\Debug\net8.0\SimpleNotificationFactory.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\bin\Debug\net8.0\SimpleNotificationFactory.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\bin\Debug\net8.0\SimpleNotificationFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\bin\Debug\net8.0\SimpleNotificationFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\SimpleNotificationFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\SimpleNotificationFactory.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\SimpleNotificationFactory.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\SimpleNotificationFactory.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\SimpleNotificationFactory.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\SimpleNotificationFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\refint\SimpleNotificationFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\SimpleNotificationFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\SimpleNotificationFactory.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimpleNotificationFactory\SimpleNotificationFactory\obj\Debug\net8.0\ref\SimpleNotificationFactory.dll
