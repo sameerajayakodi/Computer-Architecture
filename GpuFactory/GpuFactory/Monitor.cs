@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace GpuFactory
 {
-    public abstract class Company
+    public interface Monitor
     {
-        public abstract Monitor CreateMonitor();
-        public abstract Gpu CreateGpu();
+        public void Assemble();
     }
 }

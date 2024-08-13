@@ -18,5 +18,17 @@ namespace GpuFactory
         {
             return new AsusGpu();
         }
+
+        public Monitor AssembleMonitor()
+        {
+            Monitor monitor = CreateMonitor();
+            monitor.Assemble();
+            return monitor;
+        }
+
+        public override Monitor CreateMonitor()
+        {
+            return new AsusMonitor();
+        }
     }
 }

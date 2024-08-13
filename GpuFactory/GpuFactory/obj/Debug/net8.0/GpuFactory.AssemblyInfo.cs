@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GpuFactory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97cdaa0b8bbf90fdd367288ad2250500ece9465d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38bbe0dc29b884b68e518d48ed37d62dfc9a3cf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GpuFactory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GpuFactory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace GpuFactory
 {
-    public abstract class Company
+    public class AsusMonitor:Monitor
     {
-        public abstract Monitor CreateMonitor();
-        public abstract Gpu CreateGpu();
+       public void Assemble()
+        {
+            Console.WriteLine("I am Creating Asus Monitors!");
+        }
     }
 }
