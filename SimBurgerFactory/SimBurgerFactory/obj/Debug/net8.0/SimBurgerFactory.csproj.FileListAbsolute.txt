@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\bin\Debug\net8.0\SimBurgerFactory.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\bin\Debug\net8.0\SimBurgerFactory.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\bin\Debug\net8.0\SimBurgerFactory.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\bin\Debug\net8.0\SimBurgerFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\bin\Debug\net8.0\SimBurgerFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\SimBurgerFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\SimBurgerFactory.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\SimBurgerFactory.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\SimBurgerFactory.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\SimBurgerFactory.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\SimBurgerFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\refint\SimBurgerFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\SimBurgerFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\SimBurgerFactory.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\SimBurgerFactory\SimBurgerFactory\obj\Debug\net8.0\ref\SimBurgerFactory.dll

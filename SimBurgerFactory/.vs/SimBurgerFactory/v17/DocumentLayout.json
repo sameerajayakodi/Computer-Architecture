@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simburgerfactory\\simburgerfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|solutionrelative:simburgerfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simburgerfactory\\simburgerfactory\\burgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|solutionrelative:simburgerfactory\\burgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simburgerfactory\\simburgerfactory\\veggieburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|solutionrelative:simburgerfactory\\veggieburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simburgerfactory\\simburgerfactory\\chickenburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|solutionrelative:simburgerfactory\\chickenburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simburgerfactory\\simburgerfactory\\cheeseburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|solutionrelative:simburgerfactory\\cheeseburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\simburgerfactory\\simburgerfactory\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BBE252-856F-439B-811C-0490610CD7A6}|SimBurgerFactory\\SimBurgerFactory.csproj|solutionrelative:simburgerfactory\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BurgerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\BurgerFactory.cs",
+              "RelativeDocumentMoniker": "SimBurgerFactory\\BurgerFactory.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\BurgerFactory.cs",
+              "RelativeToolTip": "SimBurgerFactory\\BurgerFactory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:42:23.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeggieBurger.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\VeggieBurger.cs",
+              "RelativeDocumentMoniker": "SimBurgerFactory\\VeggieBurger.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\VeggieBurger.cs",
+              "RelativeToolTip": "SimBurgerFactory\\VeggieBurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:36:50.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChickenBurger.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\ChickenBurger.cs",
+              "RelativeDocumentMoniker": "SimBurgerFactory\\ChickenBurger.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\ChickenBurger.cs",
+              "RelativeToolTip": "SimBurgerFactory\\ChickenBurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:33:35.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheeseBurger.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\CheeseBurger.cs",
+              "RelativeDocumentMoniker": "SimBurgerFactory\\CheeseBurger.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\CheeseBurger.cs",
+              "RelativeToolTip": "SimBurgerFactory\\CheeseBurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:30:01.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\Burger.cs",
+              "RelativeDocumentMoniker": "SimBurgerFactory\\Burger.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\Burger.cs",
+              "RelativeToolTip": "SimBurgerFactory\\Burger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:26:55.385Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +109,7 @@
               "RelativeDocumentMoniker": "SimBurgerFactory\\Program.cs",
               "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\SimBurgerFactory\\SimBurgerFactory\\Program.cs",
               "RelativeToolTip": "SimBurgerFactory\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T04:25:11.069Z",
               "EditorCaption": ""
