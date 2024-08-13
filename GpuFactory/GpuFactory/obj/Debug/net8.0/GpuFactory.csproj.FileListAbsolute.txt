@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\bin\Debug\net8.0\GpuFactory.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\bin\Debug\net8.0\GpuFactory.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\bin\Debug\net8.0\GpuFactory.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\bin\Debug\net8.0\GpuFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\bin\Debug\net8.0\GpuFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\GpuFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\GpuFactory.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\GpuFactory.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\GpuFactory.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\GpuFactory.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\GpuFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\refint\GpuFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\GpuFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\GpuFactory.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GpuFactory\GpuFactory\obj\Debug\net8.0\ref\GpuFactory.dll
