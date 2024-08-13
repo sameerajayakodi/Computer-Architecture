@@ -13,14 +13,22 @@ namespace SimBurgerFactory
             {
                 return null;
             }else if(burgerType == "chicken")
-            {
-                return new ChickenBurger();
+            {   
+                ChickenBurger burger = new ChickenBurger();
+                burger.MakeBurger();
+                return burger;
+
             }else if (burgerType == "cheese")
-            {
-                return new CheeseBurger();
+            {   
+                CheeseBurger burger = new CheeseBurger();
+                burger.MakeBurger();
+                return burger;
+                
             }else if (burgerType == "veggie")
             {
-                return new VeggieBurger();  
+                VeggieBurger burger = new VeggieBurger();
+                burger.MakeBurger();
+                return burger;  
             }
             return null;
         }
