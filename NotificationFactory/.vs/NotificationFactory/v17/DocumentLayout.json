@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\notificationfactory\\notificationfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|solutionrelative:notificationfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\notificationfactory\\notificationfactory\\smsnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|solutionrelative:notificationfactory\\smsnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\notificationfactory\\notificationfactory\\emailnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|solutionrelative:notificationfactory\\emailnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\notificationfactory\\notificationfactory\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|solutionrelative:notificationfactory\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\notificationfactory\\notificationfactory\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|solutionrelative:notificationfactory\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\notificationfactory\\notificationfactory\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|solutionrelative:notificationfactory\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\notificationfactory\\notificationfactory\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9A63CC-B42F-4676-A753-1EEA4AEE5D86}|NotificationFactory\\NotificationFactory.csproj|solutionrelative:notificationfactory\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailNotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\EmailNotificationFactory.cs",
+              "RelativeDocumentMoniker": "NotificationFactory\\EmailNotificationFactory.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\EmailNotificationFactory.cs",
+              "RelativeToolTip": "NotificationFactory\\EmailNotificationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:08:15.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\NotificationFactory.cs",
+              "RelativeDocumentMoniker": "NotificationFactory\\NotificationFactory.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\NotificationFactory.cs",
+              "RelativeToolTip": "NotificationFactory\\NotificationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:06:40.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "NotificationFactory\\SmsNotification.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\SmsNotification.cs",
+              "RelativeToolTip": "NotificationFactory\\SmsNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:00:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "NotificationFactory\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\EmailNotification.cs",
+              "RelativeToolTip": "NotificationFactory\\EmailNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:59:36.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\Notification.cs",
+              "RelativeDocumentMoniker": "NotificationFactory\\Notification.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\Notification.cs",
+              "RelativeToolTip": "NotificationFactory\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:58:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\Program.cs",
+              "RelativeToolTip": "NotificationFactory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:57:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmsNotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\SmsNotificationFactory.cs",
+              "RelativeDocumentMoniker": "NotificationFactory\\SmsNotificationFactory.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\NotificationFactory\\NotificationFactory\\SmsNotificationFactory.cs",
+              "RelativeToolTip": "NotificationFactory\\SmsNotificationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:08:35.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

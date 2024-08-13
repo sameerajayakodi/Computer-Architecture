@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\bin\Debug\net8.0\NotificationFactory.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\bin\Debug\net8.0\NotificationFactory.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\bin\Debug\net8.0\NotificationFactory.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\bin\Debug\net8.0\NotificationFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\bin\Debug\net8.0\NotificationFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\NotificationFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\NotificationFactory.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\NotificationFactory.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\NotificationFactory.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\NotificationFactory.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\NotificationFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\refint\NotificationFactory.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\NotificationFactory.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\NotificationFactory.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\NotificationFactory\NotificationFactory\obj\Debug\net8.0\ref\NotificationFactory.dll
