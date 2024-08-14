@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\gpufactory_2\\gpufactory_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|solutionrelative:gpufactory_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\gpufactory_2\\gpufactory_2\\asusmanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|solutionrelative:gpufactory_2\\asusmanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\gpufactory_2\\gpufactory_2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|solutionrelative:gpufactory_2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\gpufactory_2\\gpufactory_2\\msimanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|solutionrelative:gpufactory_2\\msimanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\gpufactory_2\\gpufactory_2\\asusgpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|solutionrelative:gpufactory_2\\asusgpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\gpufactory_2\\gpufactory_2\\msigpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|solutionrelative:gpufactory_2\\msigpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\gpufactory_2\\gpufactory_2\\gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9015471-E20F-4767-9D7E-9ED564B154B4}|GPUFactory_2\\GPUFactory_2.csproj|solutionrelative:gpufactory_2\\gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsusManufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\AsusManufacturer.cs",
+              "RelativeDocumentMoniker": "GPUFactory_2\\AsusManufacturer.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\AsusManufacturer.cs",
+              "RelativeToolTip": "GPUFactory_2\\AsusManufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:37:05.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MsiManufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\MsiManufacturer.cs",
+              "RelativeDocumentMoniker": "GPUFactory_2\\MsiManufacturer.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\MsiManufacturer.cs",
+              "RelativeToolTip": "GPUFactory_2\\MsiManufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:33:02.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\Company.cs",
+              "RelativeDocumentMoniker": "GPUFactory_2\\Company.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\Company.cs",
+              "RelativeToolTip": "GPUFactory_2\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:30:39.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsusGpu.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\AsusGpu.cs",
+              "RelativeDocumentMoniker": "GPUFactory_2\\AsusGpu.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\AsusGpu.cs",
+              "RelativeToolTip": "GPUFactory_2\\AsusGpu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:29:23.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MsiGpu.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\MsiGpu.cs",
+              "RelativeDocumentMoniker": "GPUFactory_2\\MsiGpu.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\MsiGpu.cs",
+              "RelativeToolTip": "GPUFactory_2\\MsiGpu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:26:27.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gpu.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\Gpu.cs",
+              "RelativeDocumentMoniker": "GPUFactory_2\\Gpu.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\Gpu.cs",
+              "RelativeToolTip": "GPUFactory_2\\Gpu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:25:27.061Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +126,7 @@
               "RelativeDocumentMoniker": "GPUFactory_2\\Program.cs",
               "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\GPUFactory_2\\GPUFactory_2\\Program.cs",
               "RelativeToolTip": "GPUFactory_2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T16:23:23.701Z",
               "EditorCaption": ""

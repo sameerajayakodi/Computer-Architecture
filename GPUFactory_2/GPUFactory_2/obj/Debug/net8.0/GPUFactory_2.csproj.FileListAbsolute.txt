@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\bin\Debug\net8.0\GPUFactory_2.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\bin\Debug\net8.0\GPUFactory_2.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\bin\Debug\net8.0\GPUFactory_2.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\bin\Debug\net8.0\GPUFactory_2.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\bin\Debug\net8.0\GPUFactory_2.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\GPUFactory_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\GPUFactory_2.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\GPUFactory_2.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\GPUFactory_2.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\GPUFactory_2.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\GPUFactory_2.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\refint\GPUFactory_2.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\GPUFactory_2.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\GPUFactory_2.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\GPUFactory_2\GPUFactory_2\obj\Debug\net8.0\ref\GPUFactory_2.dll
