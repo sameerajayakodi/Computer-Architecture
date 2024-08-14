@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GPUFactory_2
 {
-    internal interface Gpu
+   public interface Gpu
     {
+        public void Assemble();
     }
 }
