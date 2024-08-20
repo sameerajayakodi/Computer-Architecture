@@ -21,6 +21,6 @@ namespace Singleton_Pattern
             Console.WriteLine("I am Singleton object");
         }
         
-            }
+       }
     }
-}
+
