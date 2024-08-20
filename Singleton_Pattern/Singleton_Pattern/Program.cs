@@ -4,7 +4,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        WashingMachine washingMachine = WashingMachine.GetInstance();
-        washingMachine.ShowMessage();
+        WashingMachine wm = WashingMachine.GetInstant();
+        wm.GetMessage();
     }
 }
