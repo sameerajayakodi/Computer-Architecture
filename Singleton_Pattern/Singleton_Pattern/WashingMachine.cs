@@ -8,19 +8,27 @@ namespace Singleton_Pattern
 {
     public class WashingMachine
     {
-        private WashingMachine() { }
+    private WashingMachine() { }
+        private static volatile WashingMachine washingMachine = null;
+       
 
-        private static WashingMachine instance = new WashingMachine();
-
-        public static WashingMachine GetInstance()
+        public static WashingMachine GetInstant()
         {
-            return instance;
+            lock (washingMachine) {
+                if (washingMachine == null)
+                {
+                    washingMachine = new WashingMachine();
+                }
+
+            }
+
+            return washingMachine;
         }
 
-        public void ShowMessage() {
-            Console.WriteLine("I am Singleton object");
+        public void GetMessage()
+        {
+            Console.WriteLine("I am Washing Machine");
         }
-        
-       }
+    }
     }
 
