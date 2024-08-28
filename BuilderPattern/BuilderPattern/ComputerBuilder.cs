@@ -8,11 +8,11 @@ namespace BuilderPattern
 {
     public interface ComputerBuilder
     {
-        void BuildCpu();
-        void BuildGpu();
-        void BuildStorage();
-        void BuildRam();
+        public void BuildCpu();
+        public void BuildGpu();
+        public void BuildStorage();
+        public void BuildRam();
 
-        Computer GetComparer();
+       public    Computer GetComparer();
     }
 }
