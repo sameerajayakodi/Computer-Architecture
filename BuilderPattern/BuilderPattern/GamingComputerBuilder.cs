@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BuilderPattern
 {
-    public class GamingComputerBuilder:ComputerBuilder
+    class GamingComputerBuilder:ComputerBuilder
     {
         private Computer computer = new Computer();
         void BuildCpu() { computer.CPU = "Intel Core i9";}
