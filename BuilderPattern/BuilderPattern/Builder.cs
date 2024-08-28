@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BuilderPattern
 {
-    internal interface Builder
+    public interface Builder
     {
+
     }
 }
