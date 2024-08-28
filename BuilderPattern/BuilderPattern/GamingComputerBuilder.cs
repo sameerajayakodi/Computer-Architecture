@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace BuilderPattern
 {
-    internal class GamingComputerBuilder
+    public class GamingComputerBuilder:ComputerBuilder
     {
+        private Computer computer = new Computer();
+        void BuildCpu() { computer.CPU = "Intel Core i9";}
+        void BuildGpu() { computer.GPU = "NVIDIA RTX 3080"; }
+        void BuildStorage() { computer.Storage = 1000; }
+        void BuildRam() { computer.RAM = 32; }
+
+        Computer GetComputer()
+        {
+            return computer;
+        }
     }
 }
