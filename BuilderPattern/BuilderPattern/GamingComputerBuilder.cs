@@ -8,15 +8,15 @@ namespace BuilderPattern
 {
     public class GamingComputerBuilder:ComputerBuilder
     {
-        private Computer computer = new Computer();
-        public void BuildCpu() { computer.CPU = "Intel Core i9";}
-        public void BuildGpu() { computer.GPU = "NVIDIA RTX 3080"; }
-        public void BuildStorage() { computer.Storage = 1000; }
-        public void BuildRam() { computer.RAM = 32; }
+        private Computer _computer = new Computer();
+        public void BuildCpu() { _computer.CPU = "Intel Core i9";}
+        public void BuildGpu() { _computer.GPU = "NVIDIA RTX 3080"; }
+        public void BuildStorage() { _computer.Storage = 1000; }
+        public void BuildRam() { _computer.RAM = 32; }
 
         public Computer GetComputer()
         {
-            return computer;
+            return _computer;
         }
     }
 }
