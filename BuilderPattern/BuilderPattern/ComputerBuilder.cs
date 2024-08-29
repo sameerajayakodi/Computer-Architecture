@@ -13,6 +13,6 @@ namespace BuilderPattern
         public void BuildStorage();
         public void BuildRam();
 
-       public    Computer GetComparer();
+       public Computer GetComputer();
     }
 }
