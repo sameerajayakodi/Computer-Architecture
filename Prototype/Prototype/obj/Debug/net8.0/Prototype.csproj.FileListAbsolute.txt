@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\bin\Debug\net8.0\Prototype.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\bin\Debug\net8.0\Prototype.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\bin\Debug\net8.0\Prototype.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\bin\Debug\net8.0\Prototype.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\Prototype.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\Prototype.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\Prototype.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\Prototype\Prototype\obj\Debug\net8.0\ref\Prototype.dll
