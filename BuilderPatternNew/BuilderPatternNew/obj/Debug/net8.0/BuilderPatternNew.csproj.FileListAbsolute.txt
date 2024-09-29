@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\bin\Debug\net8.0\BuilderPatternNew.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\bin\Debug\net8.0\BuilderPatternNew.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\bin\Debug\net8.0\BuilderPatternNew.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\bin\Debug\net8.0\BuilderPatternNew.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\bin\Debug\net8.0\BuilderPatternNew.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\BuilderPatternNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\BuilderPatternNew.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\BuilderPatternNew.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\BuilderPatternNew.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\BuilderPatternNew.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\BuilderPatternNew.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\refint\BuilderPatternNew.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\BuilderPatternNew.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\BuilderPatternNew.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\BuilderPatternNew\BuilderPatternNew\obj\Debug\net8.0\ref\BuilderPatternNew.dll
