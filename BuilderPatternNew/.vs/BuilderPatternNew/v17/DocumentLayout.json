@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|solutionrelative:builderpatternnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\builderpatternnew\\builderpatternnew\\gassolinecarbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|solutionrelative:builderpatternnew\\gassolinecarbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\builderpatternnew\\builderpatternnew\\electriccarbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|solutionrelative:builderpatternnew\\electriccarbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\builderpatternnew\\builderpatternnew\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|solutionrelative:builderpatternnew\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\builderpatternnew\\builderpatternnew\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|solutionrelative:builderpatternnew\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\builderpatternnew\\builderpatternnew\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,32 +34,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\CarBuilder.cs",
-              "RelativeDocumentMoniker": "BuilderPatternNew\\CarBuilder.cs",
-              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\CarBuilder.cs",
-              "RelativeToolTip": "BuilderPatternNew\\CarBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "DocumentIndex": 4,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Director.cs",
+              "RelativeDocumentMoniker": "BuilderPatternNew\\Director.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Director.cs",
+              "RelativeToolTip": "BuilderPatternNew\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T06:05:23.166Z",
+              "WhenOpened": "2024-09-29T14:15:17.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GassolineCarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\GassolineCarBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPatternNew\\GassolineCarBuilder.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\GassolineCarBuilder.cs",
+              "RelativeToolTip": "BuilderPatternNew\\GassolineCarBuilder.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:12:41.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectricCarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\ElectricCarBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPatternNew\\ElectricCarBuilder.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\ElectricCarBuilder.cs",
+              "RelativeToolTip": "BuilderPatternNew\\ElectricCarBuilder.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:10:35.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPatternNew\\CarBuilder.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\CarBuilder.cs",
+              "RelativeToolTip": "BuilderPatternNew\\CarBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:08:01.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Car.cs",
               "RelativeDocumentMoniker": "BuilderPatternNew\\Car.cs",
               "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Car.cs",
               "RelativeToolTip": "BuilderPatternNew\\Car.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAAJAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T06:02:46.216Z",
+              "WhenOpened": "2024-09-29T14:04:59.158Z",
               "EditorCaption": ""
             },
             {
@@ -56,9 +107,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Program.cs",
               "RelativeDocumentMoniker": "BuilderPatternNew\\Program.cs",
-              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Program.cs*",
-              "RelativeToolTip": "BuilderPatternNew\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Program.cs",
+              "RelativeToolTip": "BuilderPatternNew\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T15:42:31.679Z",
               "EditorCaption": ""
