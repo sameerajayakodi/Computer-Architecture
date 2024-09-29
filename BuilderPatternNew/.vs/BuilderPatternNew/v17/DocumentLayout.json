@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\builderpatternnew\\builderpatternnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|solutionrelative:builderpatternnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\builderpatternnew\\builderpatternnew\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|solutionrelative:builderpatternnew\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\builderpatternnew\\builderpatternnew\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1AB257B-477B-44AD-B636-2324F216DAFB}|BuilderPatternNew\\BuilderPatternNew.csproj|solutionrelative:builderpatternnew\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPatternNew\\CarBuilder.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\CarBuilder.cs",
+              "RelativeToolTip": "BuilderPatternNew\\CarBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:05:23.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Car.cs",
+              "RelativeDocumentMoniker": "BuilderPatternNew\\Car.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Car.cs",
+              "RelativeToolTip": "BuilderPatternNew\\Car.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:02:46.216Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Program.cs",
               "RelativeDocumentMoniker": "BuilderPatternNew\\Program.cs",
-              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Program.cs",
-              "RelativeToolTip": "BuilderPatternNew\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\BuilderPatternNew\\BuilderPatternNew\\Program.cs*",
+              "RelativeToolTip": "BuilderPatternNew\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T15:42:31.679Z",
               "EditorCaption": ""
