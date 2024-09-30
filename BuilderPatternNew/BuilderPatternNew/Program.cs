@@ -3,16 +3,13 @@ namespace BuilderPatternNew
     {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-          Car car = new CarBuilder()
-            .Id(1)
-            .Brand("Toyota")
-            .Model("Corolla")
-            .Color("White")
-            .Build();
-
-            car.DisplayCarDetails();
+          Car car = new Director(new ElectricCarBuilder()).Construct();
+            car.Display();
+            Console.WriteLine("-----------------------------------------------------");
+         Car car1 = new Director(new GassolineCarBuilder()).Construct();
+            car1.Display();
         }
     }
 }
