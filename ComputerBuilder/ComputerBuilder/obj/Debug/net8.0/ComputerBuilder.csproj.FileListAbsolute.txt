@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\refint\ComputerBuilder.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilder\ComputerBuilder\obj\Debug\net8.0\ref\ComputerBuilder.dll
