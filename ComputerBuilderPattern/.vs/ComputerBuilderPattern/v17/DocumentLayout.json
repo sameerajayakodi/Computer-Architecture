@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\computerbuilderpattern\\computerbuilderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|solutionrelative:computerbuilderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\computerbuilderpattern\\computerbuilderpattern\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|solutionrelative:computerbuilderpattern\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\computerbuilderpattern\\computerbuilderpattern\\workcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|solutionrelative:computerbuilderpattern\\workcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\computerbuilderpattern\\computerbuilderpattern\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|solutionrelative:computerbuilderpattern\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\computerbuilderpattern\\computerbuilderpattern\\computerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|solutionrelative:computerbuilderpattern\\computerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\computerbuilderpattern\\computerbuilderpattern\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAEF564-F9ED-4F62-BB75-B34700DE058F}|ComputerBuilderPattern\\ComputerBuilderPattern.csproj|solutionrelative:computerbuilderpattern\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\Director.cs",
+              "RelativeDocumentMoniker": "ComputerBuilderPattern\\Director.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\Director.cs",
+              "RelativeToolTip": "ComputerBuilderPattern\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:46:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkComputerBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\WorkComputerBuilder.cs",
+              "RelativeDocumentMoniker": "ComputerBuilderPattern\\WorkComputerBuilder.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\WorkComputerBuilder.cs",
+              "RelativeToolTip": "ComputerBuilderPattern\\WorkComputerBuilder.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:45:45.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamingComputerBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\GamingComputerBuilder.cs",
+              "RelativeDocumentMoniker": "ComputerBuilderPattern\\GamingComputerBuilder.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\GamingComputerBuilder.cs",
+              "RelativeToolTip": "ComputerBuilderPattern\\GamingComputerBuilder.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:44:03.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputerBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\ComputerBuilder.cs",
+              "RelativeDocumentMoniker": "ComputerBuilderPattern\\ComputerBuilder.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\ComputerBuilder.cs",
+              "RelativeToolTip": "ComputerBuilderPattern\\ComputerBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:41:41.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\Computer.cs",
+              "RelativeDocumentMoniker": "ComputerBuilderPattern\\Computer.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\Computer.cs",
+              "RelativeToolTip": "ComputerBuilderPattern\\Computer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:37:32.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ComputerBuilderPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\ComputerBuilderPattern\\ComputerBuilderPattern\\Program.cs",
+              "RelativeToolTip": "ComputerBuilderPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:36:48.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
