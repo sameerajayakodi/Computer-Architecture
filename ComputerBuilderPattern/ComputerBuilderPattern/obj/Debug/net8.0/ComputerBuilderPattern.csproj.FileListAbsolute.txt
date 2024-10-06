@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\ComputerBuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\ComputerBuilderPattern.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\ComputerBuilderPattern.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\ComputerBuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\ComputerBuilderPattern.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\bin\Debug\net8.0\ComputerBuilderPattern.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\bin\Debug\net8.0\ComputerBuilderPattern.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\bin\Debug\net8.0\ComputerBuilderPattern.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\bin\Debug\net8.0\ComputerBuilderPattern.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\bin\Debug\net8.0\ComputerBuilderPattern.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\ComputerBuilderPattern.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\refint\ComputerBuilderPattern.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\ComputerBuilderPattern.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\ComputerBuilderPattern.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\ComputerBuilderPattern\ComputerBuilderPattern\obj\Debug\net8.0\ref\ComputerBuilderPattern.dll
