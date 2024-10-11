@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{C14B60F4-756C-4551-9490-3C6813320BBD}|MVCDesignPattern\\MVCDesignPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\mvcdesignpattern\\mvcdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C14B60F4-756C-4551-9490-3C6813320BBD}|MVCDesignPattern\\MVCDesignPattern.csproj|solutionrelative:mvcdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B60F4-756C-4551-9490-3C6813320BBD}|MVCDesignPattern\\MVCDesignPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\mvcdesignpattern\\mvcdesignpattern\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B60F4-756C-4551-9490-3C6813320BBD}|MVCDesignPattern\\MVCDesignPattern.csproj|solutionrelative:mvcdesignpattern\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B60F4-756C-4551-9490-3C6813320BBD}|MVCDesignPattern\\MVCDesignPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\mvcdesignpattern\\mvcdesignpattern\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B60F4-756C-4551-9490-3C6813320BBD}|MVCDesignPattern\\MVCDesignPattern.csproj|solutionrelative:mvcdesignpattern\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B60F4-756C-4551-9490-3C6813320BBD}|MVCDesignPattern\\MVCDesignPattern.csproj|c:\\users\\samee\\documents\\github\\computer-architecture\\mvcdesignpattern\\mvcdesignpattern\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B60F4-756C-4551-9490-3C6813320BBD}|MVCDesignPattern\\MVCDesignPattern.csproj|solutionrelative:mvcdesignpattern\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\MVCDesignPattern\\MVCDesignPattern\\UserController.cs",
+              "RelativeDocumentMoniker": "MVCDesignPattern\\UserController.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\MVCDesignPattern\\MVCDesignPattern\\UserController.cs",
+              "RelativeToolTip": "MVCDesignPattern\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:22:15.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\MVCDesignPattern\\MVCDesignPattern\\UserView.cs",
+              "RelativeDocumentMoniker": "MVCDesignPattern\\UserView.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\MVCDesignPattern\\MVCDesignPattern\\UserView.cs",
+              "RelativeToolTip": "MVCDesignPattern\\UserView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:21:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\MVCDesignPattern\\MVCDesignPattern\\UserModel.cs",
+              "RelativeDocumentMoniker": "MVCDesignPattern\\UserModel.cs",
+              "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\MVCDesignPattern\\MVCDesignPattern\\UserModel.cs",
+              "RelativeToolTip": "MVCDesignPattern\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:19:57.769Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "MVCDesignPattern\\Program.cs",
               "ToolTip": "C:\\Users\\samee\\Documents\\GitHub\\Computer-Architecture\\MVCDesignPattern\\MVCDesignPattern\\Program.cs",
               "RelativeToolTip": "MVCDesignPattern\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T16:16:39.379Z",
               "EditorCaption": ""
