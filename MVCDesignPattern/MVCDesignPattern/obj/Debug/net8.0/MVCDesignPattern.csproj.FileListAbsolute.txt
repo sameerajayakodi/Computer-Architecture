@@ -1,0 +1,15 @@
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\bin\Debug\net8.0\MVCDesignPattern.exe
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\bin\Debug\net8.0\MVCDesignPattern.deps.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\bin\Debug\net8.0\MVCDesignPattern.runtimeconfig.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\bin\Debug\net8.0\MVCDesignPattern.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\bin\Debug\net8.0\MVCDesignPattern.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\MVCDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\MVCDesignPattern.AssemblyInfoInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\MVCDesignPattern.AssemblyInfo.cs
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\MVCDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\MVCDesignPattern.sourcelink.json
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\MVCDesignPattern.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\refint\MVCDesignPattern.dll
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\MVCDesignPattern.pdb
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\MVCDesignPattern.genruntimeconfig.cache
+C:\Users\samee\Documents\GitHub\Computer-Architecture\MVCDesignPattern\MVCDesignPattern\obj\Debug\net8.0\ref\MVCDesignPattern.dll
