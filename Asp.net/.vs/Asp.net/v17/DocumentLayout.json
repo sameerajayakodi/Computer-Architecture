@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samee\\source\\repos\\Asp.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|c:\\users\\samee\\source\\repos\\asp.net\\asp.net\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|solutionrelative:asp.net\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|c:\\users\\samee\\source\\repos\\asp.net\\asp.net\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|solutionrelative:asp.net\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|c:\\users\\samee\\source\\repos\\asp.net\\asp.net\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|solutionrelative:asp.net\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|c:\\users\\samee\\source\\repos\\asp.net\\asp.net\\services\\todoservicers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|solutionrelative:asp.net\\services\\todoservicers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|c:\\users\\samee\\source\\repos\\asp.net\\asp.net\\asp.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|solutionrelative:asp.net\\asp.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|c:\\users\\samee\\source\\repos\\asp.net\\asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|solutionrelative:asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|c:\\users\\samee\\source\\repos\\asp.net\\asp.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|solutionrelative:asp.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|c:\\users\\samee\\source\\repos\\asp.net\\asp.net\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F7E3A83-22A9-43A2-9AE8-A998A6ACADD0}|Asp.net\\Asp.net.csproj|solutionrelative:asp.net\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Asp.net\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Asp.net\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:05:06.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoServicers.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Services\\TodoServicers.cs",
+              "RelativeDocumentMoniker": "Asp.net\\Services\\TodoServicers.cs",
+              "ToolTip": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Services\\TodoServicers.cs",
+              "RelativeToolTip": "Asp.net\\Services\\TodoServicers.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:14:26.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Asp.net\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Models\\Todo.cs",
+              "RelativeToolTip": "Asp.net\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:07:55.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Asp.net.csproj",
+              "DocumentMoniker": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Asp.net.csproj",
+              "RelativeDocumentMoniker": "Asp.net\\Asp.net.csproj",
+              "ToolTip": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Asp.net.csproj",
+              "RelativeToolTip": "Asp.net\\Asp.net.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T09:07:23.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Asp.net\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Asp.net\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:19:45.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Program.cs",
+              "RelativeDocumentMoniker": "Asp.net\\Program.cs",
+              "ToolTip": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Program.cs",
+              "RelativeToolTip": "Asp.net\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:58:28.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\appsettings.json",
+              "RelativeDocumentMoniker": "Asp.net\\appsettings.json",
+              "ToolTip": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\appsettings.json",
+              "RelativeToolTip": "Asp.net\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T07:58:21.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Asp.net\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\samee\\source\\repos\\Asp.net\\Asp.net\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Asp.net\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T07:52:22.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
